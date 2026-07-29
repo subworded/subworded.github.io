@@ -4,8 +4,8 @@ collection: publications
 category: research
 permalink: /publication/2018-04-10-politainment-in-the-setya-novanto-accident
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
+date: 2018-04-10
+venue: 'Faculty of Social and Political Sciences, Universitas Sebelas Maret'
 paperurl: 'https://digilib.uns.ac.id/dokumen/detail/60652/Politainment-dalam-Kecelakaan-Setya-Novanto-Analisis-Framing-dan-Penerapan-Kode-Etik-Jurnalistik-Indonesia-dalam-Pemberitaan-Kecelakaan-Setya-Novanto-Pada-Portal-Berita-TribunnewsCom-Periode-16-30-November-2017'
 citation: 'Fauzan, HA. (2018). <i>Politainment dalam kecelakaan Setya Novanto: Analisis framing dan penerapan kode etik jurnalistik Indonesia dalam pemberitaan kecelakaan Setya Novanto pada portal berita Tribunnews.com periode 16-30 November 2017</i> [Tesis, Universitas Sebelas Maret]. https://digilib.uns.ac.id/dokumen/detail/60652/Politainment-dalam-Kecelakaan-Setya-Novanto-Analisis-Framing-dan-Penerapan-Kode-Etik-Jurnalistik-Indonesia-dalam-Pemberitaan-Kecelakaan-Setya-Novanto-Pada-Portal-Berita-TribunnewsCom-Periode-16-30-November-2017.'
 ---
