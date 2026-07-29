@@ -1,5 +1,5 @@
 ---
-title: "Why the Brazil vs. Elon Musk saga is a red flag for Indonesia’s digital activists"
+title: 'Why the Brazil vs. Elon Musk saga is a red flag for Indonesia’'s digital activists'
 collection: publications
 category: oped
 permalink: /publication/2024-09-19-elon-musk-red-flag.md
