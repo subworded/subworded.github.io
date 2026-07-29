@@ -11,9 +11,9 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Herdanang Ahmad Fauzan"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://subworded.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Herdanang Ahmad Fauzan"
+description              : &description "Herdanang Ahmad Fauzan"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://subworded.github.io # The base hostname & protocol for your site e.g. "https://[subworded].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "subworded/subworded.github.io"
@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Herdanang Ahmad Fauzan"
-  pronouns         : "he/him"  
+  pronouns         : # "he/him"  
   bio              : "Media Studies, Ecological Justice, Climate Policy"
   location         : "Jakarta, Indonesia"
   employer         : "Trend Asia"
@@ -46,9 +46,9 @@ author:
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
-  # Social media
-  instagram        : # subworded
-  linkedin         : # hafauzzan
+  Social media
+  instagram        : subworded
+  linkedin         : hafauzzan
  
 
 
