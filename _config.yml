@@ -33,18 +33,9 @@ author:
   email            : "herdanang.fauzan@trendasia.org" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  muckrack          : "https://muckrack.com/hafauzzan"
   googlescholar    : "https://scholar.google.com/citations?user=9fzguVQAAAAJ&hl=en"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  
 
 
   # Repositories and software development
