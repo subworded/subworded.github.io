@@ -3,7 +3,7 @@ title: "Condemning without confronting: Indexing within Australian news media fr
 collection: publications
 category: research
 permalink: /publication/2025-08-15-condemning-without-confronting
-excerpt: 'By testing the indexing hypothesis, my research explored whether Australian media provided independent scrutiny of Indonesia's "democratic backsliding" or if coverage remained aligned with domestic elite perspectives.'
+excerpt: 'By testing the indexing hypothesis, my research explored whether Australian media provided independent scrutiny of Indonesia''s "democratic backsliding" or if coverage remained aligned with domestic elite perspectives.'
 date: 2025-08-15
 venue: 'School of the Arts and Media, UNSW Sydney'
 paperurl: 'https://doi.org/10.13140/RG.2.2.15807.06568'
