@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  name             : "Herdanang Ahmad Fauzan"
+  pronouns         : "he/him"  
+  bio              : "Researcher in ecological justice and climate policy"
+  location         : "Jakarta, Indonesia"
   employer         : "Trend Asia"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "herdanang.fauzan@trendasia.org" 
 
   # Academic websites
   academia         : # URL
