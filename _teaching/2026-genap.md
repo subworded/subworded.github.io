@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2026-genap
 venue: "Universitas Bunda Mulia, Faculty of Social Sciences and Humanities"
-date: 2026-0-01
+date: 2026-08-18 - 2026-12-20
 location: "Jakarta, Indonesia"
 ---
 
