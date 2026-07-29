@@ -8,4 +8,4 @@ date: 2026-08-18 through  2026-12-20
 location: "Jakarta, Indonesia"
 ---
 
-Teaching eight credit hours per week for the course "Journalism in the Era of Big Data," divided into two classes.
+Teaching eight credit hours per week, divided into two workshop classes.
