@@ -2,8 +2,8 @@
 title: "Why the Brazil vs. Elon Musk saga is a red flag for Indonesia's digital activists"
 collection: publications
 category: oped
-permalink: /publication/2024-09-19-elon-musk-red-flag.md
-excerpt: 'Brazil ban on X serves as a stark warning for Indonesian digital activists to stop relying on a single, corporate-owned platform and urgently adopt decentralised communication tools to safeguard their future movements.'
+permalink: /publication/2024-09-19-elon-musk-red-flag
+excerpt: '<strong> Brazil ban on X serves as a stark warning for Indonesian digital activists to stop relying on a single, corporate-owned platform and urgently adopt decentralised communication tools to safeguard their future movements. </strong>'
 date: 2024-09-19
 venue: 'Indonesia at Melbourne'
 paperurl: 'https://indonesiaatmelbourne.unimelb.edu.au/why-the-brazil-vs-elon-musk-saga-is-a-red-flag-for-indonesias-digital-activists/'
