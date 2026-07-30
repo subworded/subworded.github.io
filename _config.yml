@@ -33,7 +33,6 @@ author:
   email            : "herdanang.fauzan@trendasia.org" 
 
   # Academic websites
-  # muckrack          : "https://muckrack.com/hafauzzan"
   # googlescholar     : "https://scholar.google.com/citations?user=9fzguVQAAAAJ&hl=en"
   
 
@@ -47,9 +46,8 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  # instagram        : subworded
   linkedin         : hafauzzan
- 
+  substack         : https://substack.com/@subworded
 
 
 
