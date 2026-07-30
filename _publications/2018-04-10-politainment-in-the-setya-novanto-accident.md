@@ -3,7 +3,7 @@ title: "Politainment in the Setya Novanto accident: A framing analysis and viola
 collection: publications
 category: research
 permalink: /publication/2018-04-10-politainment-in-the-setya-novanto-accident
-excerpt: 'I investigated how Indonesia''s most-visited news portal transformed a major political corruption scandal and subsequent car accident into a farcical media spectacle. It reveals how the pursuit of "politainment" ultimately compromised journalistic integrity and breached the journalism code of ethics.'
+excerpt: '<strong> I investigated how Indonesia''s most-visited news portal transformed a major political corruption scandal and subsequent car accident into a farcical media spectacle. It reveals how the pursuit of "politainment" ultimately compromised journalistic integrity and breached the journalism code of ethics. </strong>'
 date: 2018-04-10
 venue: 'Faculty of Social and Political Sciences, Universitas Sebelas Maret'
 paperurl: 'https://digilib.uns.ac.id/dokumen/detail/60652/Politainment-dalam-Kecelakaan-Setya-Novanto-Analisis-Framing-dan-Penerapan-Kode-Etik-Jurnalistik-Indonesia-dalam-Pemberitaan-Kecelakaan-Setya-Novanto-Pada-Portal-Berita-TribunnewsCom-Periode-16-30-November-2017'
