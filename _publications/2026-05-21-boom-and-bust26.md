@@ -3,7 +3,7 @@ title: "Boom and bust coal 2026: Tracking the global coal plant pipeline"
 collection: publications
 category: research
 permalink: /publications/2026-05-21-boom-and-bust26
-excerpt: "Boom and Bust Coal is an annual survey of the global coal fleet by Global Energy Monitor and partners. The report analyses key trends in coal power capacity and tracks various stages of capacity development including planned retirements."
+excerpt: "<strong> Boom and Bust Coal is an annual survey of the global coal fleet by Global Energy Monitor and partners. The report analyses key trends in coal power capacity and tracks various stages of capacity development including planned retirements. </strong>"
 date: 2026-05-21
 venue: 'Global Energy Monitor'
 paperurl: 'https://globalenergymonitor.org/research/boom-and-bust-coal-2026'
